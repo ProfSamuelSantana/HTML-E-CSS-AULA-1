@@ -55,3 +55,11 @@ section{
 strong{
     color: blue;
 }
+.h2center{
+    display: flex;
+padding-left: 50%;
+}
+.funcao{
+    display: flex;
+    justify-content: center;
+}
